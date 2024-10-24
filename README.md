@@ -9,8 +9,6 @@ Experimente agora: [JS Piano Simulator](https://almile.github.io/JS-Piano-Simula
 - Simulação realista de um piano usando sons digitais.
 - Interface interativa com teclas que respondem ao teclado físico.
 - Suporte a múltiplas notas e acordes simultâneos.
-- Sons claros e precisos de alta qualidade para cada tecla.
-- Design responsivo que se adapta a diferentes tamanhos de tela.
 
 ## 📸 Screenshot
 
